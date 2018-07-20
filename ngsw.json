@@ -7,24 +7,6 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.7a79183d2fa0b04dcf74.js",
-        "/polyfills.f3e0ffbe709f73abb485.js",
-        "/runtime.a66f828dca56eeb90e02.js",
-        "/scripts.b0ec4a31b78af063e456.js",
-        "/styles.0302b2782488af9997cb.css",
-        "/telepatix.ico"
-      ],
-      "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
-      ]
-    },
-    {
-      "name": "assets",
-      "installMode": "prefetch",
-      "updateMode": "prefetch",
-      "urls": [
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -56,28 +38,37 @@
         "/assets/imgs/touch_button.svg",
         "/assets/imgs/voice-icon.svg",
         "/assets/texttospeech.d.ts",
-        "/assets/texttospeech.js"
+        "/assets/texttospeech.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.0b3b034486259b4fb47b.js",
+        "/polyfills.f3e0ffbe709f73abb485.js",
+        "/runtime.a66f828dca56eeb90e02.js",
+        "/scripts.b0ec4a31b78af063e456.js",
+        "/styles.0302b2782488af9997cb.css",
+        "/telepatix.ico"
       ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/index.html": "140e3201459c2552a9bc6bb5014b0b2d912da4a2",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/main.7a79183d2fa0b04dcf74.js": "2770f65f99cd2dd852b4e67cfb69bcacefc1870f",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/polyfills.f3e0ffbe709f73abb485.js": "63d4e6d04974adc6dcba153c555e4a295171f6a8",
     "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/scripts.b0ec4a31b78af063e456.js": "0c20d7292554fbfef2235cbb54384c3c7e80a706",
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/styles.0302b2782488af9997cb.css": "bb12518991a7c5203e10bab41e727de22b519712",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/telepatix.ico": "d7745b4004bf7332d14775a3d34f0f34da1476ff",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/imgs/backspace.png": "a36a552325057ef3b37ecbf863ff8c1309081d04",
     "/assets/imgs/Check-icon.png": "2cfeb7b6410608c7850a4dc3af7a6d845245babf",
@@ -102,6 +93,14 @@
     "/assets/imgs/touch_button.svg": "6d611cfc77d0005f7a95647557cc902632a91196",
     "/assets/imgs/voice-icon.svg": "10c4063ea97412304e9f216460ee1c7e0338b786",
     "/assets/texttospeech.d.ts": "c649c8a2475c267d7235b85e6060fb4d7f919933",
-    "/assets/texttospeech.js": "79c3a53e3503d28926768edd92c02470ab3030ce"
+    "/assets/texttospeech.js": "79c3a53e3503d28926768edd92c02470ab3030ce",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "8ebc2920897a3f1b52127e6458d2bd832b995438",
+    "/main.0b3b034486259b4fb47b.js": "4f15c63488764a1b6320f277e4dc4bc84117999b",
+    "/polyfills.f3e0ffbe709f73abb485.js": "63d4e6d04974adc6dcba153c555e4a295171f6a8",
+    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/scripts.b0ec4a31b78af063e456.js": "0c20d7292554fbfef2235cbb54384c3c7e80a706",
+    "/styles.0302b2782488af9997cb.css": "bb12518991a7c5203e10bab41e727de22b519712",
+    "/telepatix.ico": "d7745b4004bf7332d14775a3d34f0f34da1476ff"
   }
 }
